@@ -40,7 +40,7 @@ class Calculater {
                 computation = prev + current
                 break
             case '-' :
-                computation = prev + current
+                computation = prev - current
                 break
             case '*' :
                 computation = prev * current
